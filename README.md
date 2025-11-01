@@ -1,6 +1,6 @@
 # DogWifDrip.
 <p align="center">
-  <img src="DogWifDrip logo.JPEG" alt="DogWifDrip logo" width="200"/>
+  <img src="DogWifDrip logo.jpeg" alt="DogWifDrip logo" width="200"/>
 </p>
 
 # 🐶 DogWifDrip ($DRIP)
